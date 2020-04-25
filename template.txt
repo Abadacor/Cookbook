@@ -1,0 +1,41 @@
+\newpage
+\section{[recipeName]}
+    \label{sec:[recipeName]}
+    \subsection{Recette}
+    \vspace{1cm}
+
+%    \begin{chapquote}{[quoteAuthor], \textit{[quoteAuthorText]}}
+%        ``[Quote]''
+%    \end{chapquote}
+
+    \begin{center}
+        \begin{tabular}{c|c}
+            Temps de préparation & [prepTime] \\
+            Difficulté & [difficulty] \\
+            Nombre de personnes & [nbOfPeople] 
+        \end{tabular}
+    \end{center}{}
+
+    \vspace{1cm}
+    \hline
+    \vspace{1cm}
+
+    \begin{minipage}{.7\textwidth}
+        \begin{enumerate}
+            [preparation]
+        \end{enumerate}
+    \end{minipage}
+    \begin{minipage}{.3\textwidth}
+        \begin{flushleft}
+        \begin{itemize}
+            [ingredients]
+        \end{itemize}
+        \end{flushleft}
+    \end{minipage}
+    
+    \vspace{1cm}
+    \hline
+    \vspace{1cm}
+    
+    \subsection{Trucs \& Astuces}
+        [advice]
