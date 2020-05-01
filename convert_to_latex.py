@@ -1,3 +1,5 @@
+import unidecode
+
 #This function is used to create a .tex file from information contained in ',' separated row of recipes spreadsheet
 # @param: infos -- row information of a dataframe (probably gotten from index cause i'm too lazy to do it properly)
 # @param: recipe -- *.tex template file for a recipe. Information to be replaced is identified like so: [field_id]
@@ -42,7 +44,7 @@ def create_latex_recipe(infos, recipe):
     return recipe
 
 def write_tex_file(recipe, recipeName):
-    with open("recipes/" + recipeName.replace(" ","")+'.tex','w') as file:
+    with open("texRecipes/" + unidecode.unidecode(recipeName.replace(" ",""))+'.tex','w') as file:
         file.write(recipe)
         print("file written to file!")
 
