@@ -1,9 +1,11 @@
 import pandas as pd
 import re
 import convert_to_latex
+import googleAPI as api
 
 #This part is for getting the CSV and making it into a dataframe
-recipes = pd.read_csv('recipes.csv')
+#recipes = pd.read_csv('recipes.csv')
+recipes = api.get_recipes_dataframe()
 recipes = recipes.drop(recipes.index[0:1])
 recipes = recipes.drop(columns=['timestamps'])
 
