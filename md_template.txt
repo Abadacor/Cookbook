@@ -1,0 +1,23 @@
+# [recipeName]
+
+`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
+---
+
+## Information
+
+| Temps de préparation  | Difficulté    | Nombre de Personnes |
+|:---------------------:|:-------------:|:-------------------:|
+| [prepTime]            | [difficulty]  | [nbOfPeople]        |
+
+## Ingredients
+
+[ingredients]
+
+## Réalisation
+
+[preparation]
+
+---
+
+[advice]
