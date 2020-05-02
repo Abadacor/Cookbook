@@ -40,13 +40,12 @@ def create_latex_recipe(infos, recipe):
         recipe = recipe.replace('[quoteAuthor]',str(infos['quoteAuthor']))
         recipe = recipe.replace('[quoteAuthorText]',str(infos['quoteAuthorText']))
 
-    print("Recipe created")
+    print("Recipe created: ",infos['recipeName'])
     return recipe
 
 def write_tex_file(recipe, recipeName):
     with open("texRecipes/" + unidecode.unidecode(recipeName.replace(" ",""))+'.tex','w') as file:
         file.write(recipe)
-        print("file written to file!")
 
 def get_recipe_label(recipeInfo):
     return '\item \hyperref[sec:'+recipeInfo['recipeName']+']{'+recipeInfo['recipeName']+'}\n'
