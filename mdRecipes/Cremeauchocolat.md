@@ -31,5 +31,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Bien délayer la maïzena à part avant d'incorporer. Faire refroidir dans un plat en céramique pour une meilleure prise.
+Bien délayer la maïzena à part avant d'incorporer. Faire refroidir dans un plat en céramique pour une meilleure prise.

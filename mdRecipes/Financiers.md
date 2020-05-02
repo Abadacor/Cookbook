@@ -32,5 +32,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Ajouter du thé vert, des épices ou des framboises pour varier les plaisirs!
+Ajouter du thé vert, des épices ou des framboises pour varier les plaisirs!

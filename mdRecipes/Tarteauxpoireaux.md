@@ -39,5 +39,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Servir avec une bière bien fraîche!
+Servir avec une bière bien fraîche!

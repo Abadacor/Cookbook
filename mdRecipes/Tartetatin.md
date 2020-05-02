@@ -32,5 +32,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Avec de la chantilly c'est toujours mieux!
+Avec de la chantilly c'est toujours mieux!

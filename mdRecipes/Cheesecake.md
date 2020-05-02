@@ -41,5 +41,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Servir avec un coulis de fruits rouge ou chocolat!
+Servir avec un coulis de fruits rouge ou chocolat!

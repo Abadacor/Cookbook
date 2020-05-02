@@ -36,5 +36,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Utiliser un reste de viande et de bouillon provenant d'un pot au feu!
+Utiliser un reste de viande et de bouillon provenant d'un pot au feu!

@@ -32,5 +32,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Faites le café plus fort que vous ne le boiriez. N'hésitez pas à couper les buiscuits en petits morceaux pour boucher les interstices/faire des bords.
+Faites le café plus fort que vous ne le boiriez. N'hésitez pas à couper les buiscuits en petits morceaux pour boucher les interstices/faire des bords.

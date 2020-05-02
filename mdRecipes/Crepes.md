@@ -29,5 +29,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Si mixeur ou plongeur disponible, à utiliser. Pour de meilleures crêpes laisser la pâte reposer 1 à 2 heures.
+Si mixeur ou plongeur disponible, à utiliser. Pour de meilleures crêpes laisser la pâte reposer 1 à 2 heures.

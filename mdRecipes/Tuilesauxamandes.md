@@ -29,5 +29,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Bien écarte les boules sur la plaque de cuisson sinon ça colle!
+Bien écarte les boules sur la plaque de cuisson sinon ça colle!

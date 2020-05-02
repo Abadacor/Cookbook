@@ -34,5 +34,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Travailler le beurre en pommade à la spatule au préalable rendra le mélange plus homogène.
+Travailler le beurre en pommade à la spatule au préalable rendra le mélange plus homogène.

@@ -46,5 +46,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	N'hésitez pas à laisser l'eau des champignons s'évaporer et/ou à rajouter un peu de farine afin d'obtenir une préparation liée de façon dense.
+N'hésitez pas à laisser l'eau des champignons s'évaporer et/ou à rajouter un peu de farine afin d'obtenir une préparation liée de façon dense.

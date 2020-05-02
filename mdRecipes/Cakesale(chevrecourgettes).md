@@ -37,5 +37,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Recette à varier le plus possible. Utiliser un légume cuit et un ou deux condiments. 
+Recette à varier le plus possible. Utiliser un légume cuit et un ou deux condiments. 

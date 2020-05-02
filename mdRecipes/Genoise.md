@@ -34,5 +34,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Ne pas ouvrir le four pendant la cuisson pour éviter de faire dégonfler la génoise
+Ne pas ouvrir le four pendant la cuisson pour éviter de faire dégonfler la génoise

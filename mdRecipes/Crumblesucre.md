@@ -31,5 +31,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	A varier avec tous les fruits que vous pourrez imaginer!
+A varier avec tous les fruits que vous pourrez imaginer!

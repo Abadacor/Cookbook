@@ -33,5 +33,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Utiliser si possible du riz rond. Sortir le mélange du feu une minute avant d'incorporer le jaune d'oeuf et bien remuer pendant.
+Utiliser si possible du riz rond. Sortir le mélange du feu une minute avant d'incorporer le jaune d'oeuf et bien remuer pendant.

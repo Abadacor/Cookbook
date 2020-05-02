@@ -35,5 +35,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Ajouter une meringue à l'italienne dessus.
+Ajouter une meringue à l'italienne dessus.

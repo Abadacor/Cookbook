@@ -29,5 +29,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Courgettes & aubergines assaisonnées de paprika c'est délicieux
+Courgettes & aubergines assaisonnées de paprika c'est délicieux

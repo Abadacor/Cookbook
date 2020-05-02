@@ -29,5 +29,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Attention à ne pas casser les blancs. Personne ne sait ce que ça veut dire, mais c'est un bon conseil.
+Attention à ne pas casser les blancs. Personne ne sait ce que ça veut dire, mais c'est un bon conseil.

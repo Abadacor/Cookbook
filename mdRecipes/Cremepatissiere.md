@@ -30,5 +30,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Multipliez les quantités à l'infini.
+Multipliez les quantités à l'infini.

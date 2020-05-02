@@ -32,5 +32,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Au moment de l'incorporation d'un oeuf, retirer du feu, puis remettre une fois homogène.
+Au moment de l'incorporation d'un oeuf, retirer du feu, puis remettre une fois homogène.

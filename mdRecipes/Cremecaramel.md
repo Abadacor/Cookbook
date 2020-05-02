@@ -31,5 +31,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Préparer le bain marie à l'avance..
+Préparer le bain marie à l'avance..

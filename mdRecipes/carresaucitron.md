@@ -38,5 +38,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Saupoudrer de sucre glace
+Saupoudrer de sucre glace

@@ -32,5 +32,4 @@
 
 ---
 
-\subsection{Trucs \& Astuces}
-	Préparer la veille pour que ça soit bien pris.
+Préparer la veille pour que ça soit bien pris.
