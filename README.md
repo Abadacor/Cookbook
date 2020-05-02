@@ -10,7 +10,7 @@ convertion of a csv file containing recipes into a series of latex or markdown f
 - [X] Convert data to a tex recipe
 - [X] Write a markdown template
 - [X] Convert to a mardown recipe
-- [ ] Correct Quote section for md recipes
+- [X] Correct Quote section for md recipes
 - [ ] Format everything into one document and be able to download it as a PDF
 
 ## Recipes index
