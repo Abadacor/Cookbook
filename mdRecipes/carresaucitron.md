@@ -1,6 +1,6 @@
 # carrés au citron
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

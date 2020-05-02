@@ -1,6 +1,6 @@
 # Tarte aux poireaux
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

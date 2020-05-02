@@ -1,6 +1,6 @@
 # Sorbet à la fraise
 
-`Je peux finir? ~ Adèle ,La cuillère déjà dans le plat`
+`Je peux finir? ~ Adèle , La cuillère déjà dans le plat`
 
 ---
 

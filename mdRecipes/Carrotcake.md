@@ -1,6 +1,6 @@
 # Carrot cake
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

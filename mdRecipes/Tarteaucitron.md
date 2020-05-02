@@ -1,6 +1,6 @@
 # Tarte au citron
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

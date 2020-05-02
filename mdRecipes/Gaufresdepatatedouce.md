@@ -1,6 +1,6 @@
 # Gaufres de patate douce
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

@@ -1,6 +1,6 @@
 # Quatre-quart
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

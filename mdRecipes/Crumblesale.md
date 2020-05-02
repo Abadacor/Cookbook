@@ -1,6 +1,6 @@
 # Crumble salé
 
-`Faire d'une recette de gâteau un plat salé. J'adore. ~ Romain,emerveillé par des courgettes`
+`Faire d'une recette de gâteau un plat salé. J'adore. ~ Romain, emerveillé par des courgettes`
 
 ---
 

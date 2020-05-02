@@ -1,6 +1,6 @@
 # Gâteau au chocolat
 
-`J'ai monté de la crème anglaise en plus! ~ Adèle,Un grand sourire sur les lèvres`
+`J'ai monté de la crème anglaise en plus! ~ Adèle, Un grand sourire sur les lèvres`
 
 ---
 

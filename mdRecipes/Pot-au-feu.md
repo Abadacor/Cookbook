@@ -1,6 +1,6 @@
 # Pot-au-feu
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

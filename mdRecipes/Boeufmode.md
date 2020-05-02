@@ -1,6 +1,6 @@
 # Boeuf mode
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

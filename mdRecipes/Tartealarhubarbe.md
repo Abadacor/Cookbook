@@ -1,6 +1,6 @@
 # Tarte à la rhubarbe
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

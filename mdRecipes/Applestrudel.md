@@ -1,6 +1,6 @@
 # Apple strudel
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

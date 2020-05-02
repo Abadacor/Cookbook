@@ -1,6 +1,6 @@
 # Tajine de veau aux légumes verts
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

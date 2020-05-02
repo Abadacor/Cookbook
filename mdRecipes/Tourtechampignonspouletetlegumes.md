@@ -1,6 +1,6 @@
 # Tourte champignons poulet et légumes
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

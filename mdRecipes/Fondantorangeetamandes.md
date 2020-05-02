@@ -1,6 +1,6 @@
 # Fondant orange et amandes
 
-`C'est pas bon pour ce que j'ai ça. ~ Hervé,Se resservant pour la 6e fois`
+`C'est pas bon pour ce que j'ai ça. ~ Hervé, Se resservant pour la 6e fois`
 
 ---
 

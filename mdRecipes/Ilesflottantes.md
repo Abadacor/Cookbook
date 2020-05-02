@@ -1,6 +1,6 @@
 # Iles flottantes
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

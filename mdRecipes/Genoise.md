@@ -1,6 +1,6 @@
 # Génoise
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

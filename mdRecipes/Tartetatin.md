@@ -1,6 +1,6 @@
 # Tarte tatin
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

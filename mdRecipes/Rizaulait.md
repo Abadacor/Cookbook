@@ -1,6 +1,6 @@
 # Riz au lait
 
-`Pourquoi il se ressert, il est pas sensé ne pas aimer ça? ~ Romain,Regardant son père engloutir sa part`
+`Pourquoi il se ressert, il est pas sensé ne pas aimer ça? ~ Romain, Regardant son père engloutir sa part`
 
 ---
 

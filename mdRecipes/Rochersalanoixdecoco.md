@@ -1,6 +1,6 @@
 # Rochers à la noix de coco
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

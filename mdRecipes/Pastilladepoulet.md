@@ -1,6 +1,6 @@
 # Pastilla de poulet
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

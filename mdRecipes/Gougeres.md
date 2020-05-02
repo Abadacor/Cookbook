@@ -1,6 +1,6 @@
 # Gougères
 
-`J'ai mal au bras.. ~ Romain,Regrettant sa décision de faire des gougères`
+`J'ai mal au bras.. ~ Romain, Regrettant sa décision de faire des gougères`
 
 ---
 

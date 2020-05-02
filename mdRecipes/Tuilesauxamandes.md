@@ -1,6 +1,6 @@
 # Tuiles aux amandes
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

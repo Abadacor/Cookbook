@@ -1,6 +1,6 @@
 # Gauffres
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

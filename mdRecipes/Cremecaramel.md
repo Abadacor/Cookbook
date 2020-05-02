@@ -1,6 +1,6 @@
 # Crème caramel
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

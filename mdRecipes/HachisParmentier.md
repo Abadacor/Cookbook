@@ -1,6 +1,6 @@
 # Hachis Parmentier
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

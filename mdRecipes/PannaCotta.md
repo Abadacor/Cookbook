@@ -1,6 +1,6 @@
 # Panna Cotta
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

@@ -1,6 +1,6 @@
 # Crème au chocolat
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

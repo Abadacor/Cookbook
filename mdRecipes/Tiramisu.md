@@ -1,6 +1,6 @@
 # Tiramisu
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

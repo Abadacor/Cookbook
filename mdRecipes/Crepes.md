@@ -1,6 +1,6 @@
 # Crêpes
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

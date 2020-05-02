@@ -1,6 +1,6 @@
 # [recipeName]
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+[quoteSection]
 
 ---
 

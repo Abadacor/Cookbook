@@ -1,6 +1,6 @@
 # Madeleines
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 

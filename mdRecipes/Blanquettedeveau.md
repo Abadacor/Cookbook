@@ -1,6 +1,6 @@
 # Blanquette de veau
 
-`Plus de sauuuuuuce! ~ Hervé,Noyant son assiette`
+`Plus de sauuuuuuce! ~ Hervé, Noyant son assiette`
 
 ---
 

@@ -1,6 +1,6 @@
 # Financiers
 
-`[quote] ~ [quoteAuthor],[quoteAuthorText]`
+
 
 ---
 
