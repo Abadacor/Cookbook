@@ -12,11 +12,21 @@
 
 ## Ingredients
 
-4 oeufs30g de sucre100g de beurre335g de farine500mL de laitune pincée de sel
+- 4 oeufs
+- 30g de sucre
+- 100g de beurre
+- 335g de farine
+- 500mL de lait
+- une pincée de sel
+
 
 ## Réalisation
 
-Battez les oeufs, le sucre et le sel, puis ajoutez-y le beurre fonduEnsuite, ajoutez-y la farine et le lait progressivementFouettez vigoureusement jusqu'à obtention d'une pâte bien lisseFaire reposer 1h si possible avant de cuire.
+1. Battez les oeufs, le sucre et le sel, puis ajoutez-y le beurre fondu
+1. Ensuite, ajoutez-y la farine et le lait progressivement
+1. Fouettez vigoureusement jusqu'à obtention d'une pâte bien lisse
+1. Faire reposer 1h si possible avant de cuire.
+
 
 ---
 

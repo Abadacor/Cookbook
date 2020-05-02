@@ -12,11 +12,29 @@
 
 ## Ingredients
 
-150g de farine30g de sucre glace4 cuillères à café de maïzenaune pincée de sel125g de beurre doux18 cL de jus de citron250g de sucre6 oeufszeste d'un citron5 cuillères à soupe de farine
+- 150g de farine
+- 30g de sucre glace
+- 4 cuillères à café de maïzena
+- une pincée de sel
+- 125g de beurre doux
+- 18 cL de jus de citron
+- 250g de sucre
+- 6 oeufs
+- zeste d'un citron
+- 5 cuillères à soupe de farine
+
 
 ## Réalisation
 
-Préchauffer le four à 180°CSabler les 150g de farine, sucre glace, maïzena sel et beurre ramolliTapisser le fond du mouleFaire cuire 20 minutesMélanger les jus et zeste de citron, le sucre, les oeufs et le reste de la farineVerser sur la pâte doréeFaire cuire l'ensemble 40 minutes à 150°CLaisser refroidir.
+1. Préchauffer le four à 180°C
+1. Sabler les 150g de farine, sucre glace, maïzena sel et beurre ramolli
+1. Tapisser le fond du moule
+1. Faire cuire 20 minutes
+1. Mélanger les jus et zeste de citron, le sucre, les oeufs et le reste de la farine
+1. Verser sur la pâte dorée
+1. Faire cuire l'ensemble 40 minutes à 150°C
+1. Laisser refroidir.
+
 
 ---
 

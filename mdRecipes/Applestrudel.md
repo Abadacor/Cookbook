@@ -12,11 +12,36 @@
 
 ## Ingredients
 
-5 pommes150g de sucre140g de beurre douxzeste d'un citron3cL de jus de citron1/2 cuillère à soupe de maïzena1 cuillère à café d'extrait de vanille50g d'amandes effilées4 feuilles de pâte filo40g de chapelure1 cuillère à café de cannelle
+- 5 pommes
+- 150g de sucre
+- 140g de beurre doux
+- zeste d'un citron
+- 3cL de jus de citron
+- 1/2 cuillère à soupe de maïzena
+- 1 cuillère à café d'extrait de vanille
+- 50g d'amandes effilées
+- 4 feuilles de pâte filo
+- 40g de chapelure
+- 1 cuillère à café de cannelle
+
 
 ## Réalisation
 
-Mélanger la maïzena et le jus de citronMettre 40g de beurre à fondre dans une poêle à feu moyenAjouter les pommes en morceaux et 75g de sucreLaisser cuire 3 minutesAjouter le zeste de citron, les amandes et la vanilleUne fois les pommes cuites, ajouter la préparation maïzena-jus de citronLaisser refroidirPréchauffer le four à 200°CMélanger la chapelure, le reste du sucre et la cannelleEtaler une feuille de pâte à filo sur une plaque de cuissonLa badigeonner de beurre fondu puis saupoudrer du mélanger chapelure, sucre, cannelleRépéter l'opération avec les 3 autres feuillesEtaler la garniture sur toute la longueur des feuilles puis rouler celles-ciBadigeonner la surface du strudel de beurre, saupoudrer à nouveau et enfourner pour 25 minutes.
+1. Mélanger la maïzena et le jus de citron
+1. Mettre 40g de beurre à fondre dans une poêle à feu moyen
+1. Ajouter les pommes en morceaux et 75g de sucre
+1. Laisser cuire 3 minutes
+1. Ajouter le zeste de citron, les amandes et la vanille
+1. Une fois les pommes cuites, ajouter la préparation maïzena-jus de citron
+1. Laisser refroidir
+1. Préchauffer le four à 200°C
+1. Mélanger la chapelure, le reste du sucre et la cannelle
+1. Etaler une feuille de pâte à filo sur une plaque de cuisson
+1. La badigeonner de beurre fondu puis saupoudrer du mélanger chapelure, sucre, cannelle
+1. Répéter l'opération avec les 3 autres feuilles
+1. Etaler la garniture sur toute la longueur des feuilles puis rouler celles-ci
+1. Badigeonner la surface du strudel de beurre, saupoudrer à nouveau et enfourner pour 25 minutes.
+
 
 ---
 

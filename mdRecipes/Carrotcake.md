@@ -12,11 +12,26 @@
 
 ## Ingredients
 
-200g de sucre2 oeufs50mL de lait180g de carottes râpées150g de farine50g de maïzena1 cuillère à café de levure chimiqueune pincée de sel2 cuillères à café de cannelle
+- 200g de sucre
+- 2 oeufs
+- 50mL de lait
+- 180g de carottes râpées
+- 150g de farine
+- 50g de maïzena
+- 1 cuillère à café de levure chimique
+- une pincée de sel
+- 2 cuillères à café de cannelle
+
 
 ## Réalisation
 
-Préchauffez le four à 180°CBattez le sucre et les oeufs dans un bol et ajoutez-y les laitMélangez les ingrédients secs dans un autre bol puis ajoutez les à la première préparationMixer jusqu'à obtenir une pâte lisseVerser dans un moule à cake et enfourner pendant 45 minutesLaisser refroidir avant de démouler.
+1. Préchauffez le four à 180°C
+1. Battez le sucre et les oeufs dans un bol et ajoutez-y les lait
+1. Mélangez les ingrédients secs dans un autre bol puis ajoutez les à la première préparation
+1. Mixer jusqu'à obtenir une pâte lisse
+1. Verser dans un moule à cake et enfourner pendant 45 minutes
+1. Laisser refroidir avant de démouler.
+
 
 ---
 

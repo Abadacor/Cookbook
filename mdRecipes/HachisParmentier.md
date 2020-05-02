@@ -12,11 +12,27 @@
 
 ## Ingredients
 
-Purée de pomme de terre500g de boeuf cuit120g d'oignons hachés40g de beurre20-25g de farine200mL de vin blanc200mL de bouillon dégraissé1 cuillère à soupe de purée de tomates1 cuillère à café de persil hachéemmental râpé
+- Purée de pomme de terre
+- 500g de boeuf cuit
+- 120g d'oignons hachés
+- 40g de beurre
+- 20-25g de farine
+- 200mL de vin blanc
+- 200mL de bouillon dégraissé
+- 1 cuillère à soupe de purée de tomates
+- 1 cuillère à café de persil haché
+- emmental râpé
+
 
 ## Réalisation
 
-Faire revenir les oignons avec le beurre jusqu'à coloration sur feu moyenAjouter la farine, puis délayer avec le bouillon, le vin et la purée de tomatesPorter à ébullition pendant une dizaine de minutesAjouter la viande hachée, bien mélangerÉtaler le mélange dans un plat et y superposer la purée de pommes de terreAjouter l'emmental râpé et faire gratiner au four.
+1. Faire revenir les oignons avec le beurre jusqu'à coloration sur feu moyen
+1. Ajouter la farine, puis délayer avec le bouillon, le vin et la purée de tomates
+1. Porter à ébullition pendant une dizaine de minutes
+1. Ajouter la viande hachée, bien mélanger
+1. Étaler le mélange dans un plat et y superposer la purée de pommes de terre
+1. Ajouter l'emmental râpé et faire gratiner au four.
+
 
 ---
 

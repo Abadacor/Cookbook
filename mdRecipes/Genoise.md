@@ -12,11 +12,25 @@
 
 ## Ingredients
 
-30g de farine1 sachet de sucre vanillé1 sachet de levure1 pincée de sel70g de maïzena5 oeufs125g de sucre
+- 30g de farine
+- 1 sachet de sucre vanillé
+- 1 sachet de levure
+- 1 pincée de sel
+- 70g de maïzena
+- 5 oeufs
+- 125g de sucre
+
 
 ## Réalisation
 
-Précauffer le four à 175°CMélanger jaunes d'oeufs, sucre et sucre vanilléAjouter farine, maïzena et levure préalablement mélangésBattre les blancs en neigeAjouter à la préparation délicatementBeurrer le mouleVerser la pâte et faire cuire 35 minutes.
+1. Précauffer le four à 175°C
+1. Mélanger jaunes d'oeufs, sucre et sucre vanillé
+1. Ajouter farine, maïzena et levure préalablement mélangés
+1. Battre les blancs en neige
+1. Ajouter à la préparation délicatement
+1. Beurrer le moule
+1. Verser la pâte et faire cuire 35 minutes.
+
 
 ---
 

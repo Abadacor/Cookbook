@@ -12,11 +12,22 @@
 
 ## Ingredients
 
-200-300g de chocolat noir500mL de lait1-2 cuillères à soupe de Maïzena2 cuillères à soupe de lait froid2 cuillères à soupe de sucre1 noisette de beurre
+- 200-300g de chocolat noir
+- 500mL de lait
+- 1-2 cuillères à soupe de Maïzena
+- 2 cuillères à soupe de lait froid
+- 2 cuillères à soupe de sucre
+- 1 noisette de beurre
+
 
 ## Réalisation
 
-Faire fondre le chocolatDélayer avec le laitAjouter la maïzena délayée, puis le sucreFaire épaissir à feu doux, puis y ajouter le beurreLaisser refroidir.
+1. Faire fondre le chocolat
+1. Délayer avec le lait
+1. Ajouter la maïzena délayée, puis le sucre
+1. Faire épaissir à feu doux, puis y ajouter le beurre
+1. Laisser refroidir.
+
 
 ---
 

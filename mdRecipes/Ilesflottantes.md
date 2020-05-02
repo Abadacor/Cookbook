@@ -12,11 +12,20 @@
 
 ## Ingredients
 
-8 blancs d'oeuf1 pincée de sel1 crème anglaise
+- 8 blancs d'oeuf
+- 1 pincée de sel
+- 1 crème anglaise
+
 
 ## Réalisation
 
-Faire chauffer une grande casserole d'eauMonter les blancs en neige avec une pincée de selDès que l'eau bout, déposer délicatement des cuillerées de blancs en neigeBaisser le feu et laisser cuire 3 minutesRécupérer les blancs avec un écumoireDéposer sur une crème anglaise.
+1. Faire chauffer une grande casserole d'eau
+1. Monter les blancs en neige avec une pincée de sel
+1. Dès que l'eau bout, déposer délicatement des cuillerées de blancs en neige
+1. Baisser le feu et laisser cuire 3 minutes
+1. Récupérer les blancs avec un écumoire
+1. Déposer sur une crème anglaise.
+
 
 ---
 

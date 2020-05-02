@@ -12,11 +12,24 @@
 
 ## Ingredients
 
-1kg de macreusegros selpoivre5 carottes4 poireaux2 oignons1 bouquet garni
+- 1kg de macreuse
+- gros sel
+- poivre
+- 5 carottes
+- 4 poireaux
+- 2 oignons
+- 1 bouquet garni
+
 
 ## Réalisation
 
-Mettre la viande dans une cocotte-minuteLa couvrir d'eauAssaisonnerPorter à ébullition puis écumerFermer et faire cuire 30 minutes à partir du chuchottement de l'appareilAjouter les légumes et faire cuire 11 minutes.
+1. Mettre la viande dans une cocotte-minute
+1. La couvrir d'eau
+1. Assaisonner
+1. Porter à ébullition puis écumer
+1. Fermer et faire cuire 30 minutes à partir du chuchottement de l'appareil
+1. Ajouter les légumes et faire cuire 11 minutes.
+
 
 ---
 

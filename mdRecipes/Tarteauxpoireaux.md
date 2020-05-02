@@ -12,11 +12,30 @@
 
 ## Ingredients
 
-1 pâte brisée800g de poireaux3 oeufs150 mL de crème fraîche70g de gruyère râpé200 mL de lait1 cuillère à café de maïzena
+- 1 pâte brisée
+- 800g de poireaux
+- 3 oeufs
+- 150 mL de crème fraîche
+- 70g de gruyère râpé
+- 200 mL de lait
+- 1 cuillère à café de maïzena
+
 
 ## Réalisation
 
-Abaisser la pâte dans un moule à tartePiquer le fondFaire précuire le fond de tarte 7 minutes au four à 200°CEplucher et laver les poireaux en enlevant les deux tiers de la partie verteEmincer les poireaux finementLes faire revenir à feu doux avec une noix de beurreSaler et poivrerRépartir les poireaux dans le fond de tarte précuitLes saupoudrer de gruyèreMixer le lait, la crème fraîche, les oeufs, la farine, une pincée de sel et de poivreVerser le mélange sur les poireauxCuire au four pendant 20 minutes à 200°C.
+1. Abaisser la pâte dans un moule à tarte
+1. Piquer le fond
+1. Faire précuire le fond de tarte 7 minutes au four à 200°C
+1. Eplucher et laver les poireaux en enlevant les deux tiers de la partie verte
+1. Emincer les poireaux finement
+1. Les faire revenir à feu doux avec une noix de beurre
+1. Saler et poivrer
+1. Répartir les poireaux dans le fond de tarte précuit
+1. Les saupoudrer de gruyère
+1. Mixer le lait, la crème fraîche, les oeufs, la farine, une pincée de sel et de poivre
+1. Verser le mélange sur les poireaux
+1. Cuire au four pendant 20 minutes à 200°C.
+
 
 ---
 

@@ -12,11 +12,24 @@
 
 ## Ingredients
 
-200g de riz à cuire750mL de lait1 sachet de sucre vanillé1 pincée de seldu zeste de citron1 jaune d'oeuf125g de sucre1 noix de beurre
+- 200g de riz à cuire
+- 750mL de lait
+- 1 sachet de sucre vanillé
+- 1 pincée de sel
+- du zeste de citron
+- 1 jaune d'oeuf
+- 125g de sucre
+- 1 noix de beurre
+
 
 ## Réalisation
 
-Faire cuire le riz 5min dans de l'eau, puis égoutterFaire bouillir le lait avec le surcre vanillé, le sel et le zeste de citronRajouter le riz une fois le mélange parvenu à ébullitionCuire 25 à 35minutes Rajouter le jaune d'oeuf tout en remuant afin de ne pas le cuire, puis le sucre et le beurre.
+1. Faire cuire le riz 5min dans de l'eau, puis égoutter
+1. Faire bouillir le lait avec le surcre vanillé, le sel et le zeste de citron
+1. Rajouter le riz une fois le mélange parvenu à ébullition
+1. Cuire 25 à 35minutes 
+1. Rajouter le jaune d'oeuf tout en remuant afin de ne pas le cuire, puis le sucre et le beurre.
+
 
 ---
 

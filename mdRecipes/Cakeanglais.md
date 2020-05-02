@@ -12,11 +12,25 @@
 
 ## Ingredients
 
-150g de beurre125g de sucre250g de farine1 sachet de levure3 oeufs2 bouchons de rhumfruits confitsraisinsangéliqueécorce d'orange...
+- 150g de beurre
+- 125g de sucre
+- 250g de farine
+- 1 sachet de levure
+- 3 oeufs
+- 2 bouchons de rhum
+- fruits confits
+- raisins
+- angélique
+- écorce d'orange...
+
 
 ## Réalisation
 
-Battre les oeufs et y ajouter le beurre et le sucre, puis la farine et la levureA l'obtention d'une pâte bien lisse, ajouter le rhumAjouter ensuite les fruits confits, raisins etcFaire cuire une heure dans un moule à cake beurré, à 180°C.
+1. Battre les oeufs et y ajouter le beurre et le sucre, puis la farine et la levure
+1. A l'obtention d'une pâte bien lisse, ajouter le rhum
+1. Ajouter ensuite les fruits confits, raisins etc
+1. Faire cuire une heure dans un moule à cake beurré, à 180°C.
+
 
 ---
 

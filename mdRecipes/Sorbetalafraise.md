@@ -12,11 +12,18 @@
 
 ## Ingredients
 
-1kg de fraise200g de sucre1 jus de citron1 jus d'orange
+- 1kg de fraise
+- 200g de sucre
+- 1 jus de citron
+- 1 jus d'orange
+
 
 ## Réalisation
 
-Laver et mixer les fraisesY ajouter le sucre, le jus de citron et d'orangeMettre dans la sorbetière.
+1. Laver et mixer les fraises
+1. Y ajouter le sucre, le jus de citron et d'orange
+1. Mettre dans la sorbetière.
+
 
 ---
 

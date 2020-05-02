@@ -12,11 +12,20 @@
 
 ## Ingredients
 
-125g d'amandes effilées100g de beurre100g de sucre2 cuillères à soupe de farine1 cuillère à soupe de crème fraîche
+- 125g d'amandes effilées
+- 100g de beurre
+- 100g de sucre
+- 2 cuillères à soupe de farine
+- 1 cuillère à soupe de crème fraîche
+
 
 ## Réalisation
 
-Mélanger les amandes effilées, le sucre, la farineY ajouter le beurre fondu puis la crème fraîcheFaire plusieurs petites boules sur une plaqueCuire quelques minutes à 180°C.
+1. Mélanger les amandes effilées, le sucre, la farine
+1. Y ajouter le beurre fondu puis la crème fraîche
+1. Faire plusieurs petites boules sur une plaque
+1. Cuire quelques minutes à 180°C.
+
 
 ---
 

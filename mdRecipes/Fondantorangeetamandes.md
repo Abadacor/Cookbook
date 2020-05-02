@@ -12,11 +12,25 @@
 
 ## Ingredients
 
-250g de poudre d'amande250g de sucre250g de beurre6 oeufs1 orange100g d'écorces d'orange confites
+- 250g de poudre d'amande
+- 250g de sucre
+- 250g de beurre
+- 6 oeufs
+- 1 orange
+- 100g d'écorces d'orange confites
+
 
 ## Réalisation
 
-Faire ramollir le beurre à température ambiantePresser l'orangeHacher les écorcesBeurrer le mouleMélanger le beurre mou et le sucreAjouter la poudre d'amande, les écorces d'oranges et le jus d'orangeIncorporer les oeufs au mélange un à unVerser le tout dans le moule beurré et placer au four pendant 1h à 180°C.
+1. Faire ramollir le beurre à température ambiante
+1. Presser l'orange
+1. Hacher les écorces
+1. Beurrer le moule
+1. Mélanger le beurre mou et le sucre
+1. Ajouter la poudre d'amande, les écorces d'oranges et le jus d'orange
+1. Incorporer les oeufs au mélange un à un
+1. Verser le tout dans le moule beurré et placer au four pendant 1h à 180°C.
+
 
 ---
 

@@ -12,11 +12,20 @@
 
 ## Ingredients
 
-150g de farine200g de parmesan200g de beurre moulégumes cuits
+- 150g de farine
+- 200g de parmesan
+- 200g de beurre mou
+- légumes cuits
+
 
 ## Réalisation
 
-Mélangez la farine, le parmsean et le beurre jusqu'à obtention d'une pâte sableuseCuisez les légumes à partDans un plat beurré, faites une couche de légumes et assaisonnez de sel/poivre, puis une couche de pâteRépétez l'opérationEnfournez 20-25 minutes à 180°C.
+1. Mélangez la farine, le parmsean et le beurre jusqu'à obtention d'une pâte sableuse
+1. Cuisez les légumes à part
+1. Dans un plat beurré, faites une couche de légumes et assaisonnez de sel/poivre, puis une couche de pâte
+1. Répétez l'opération
+1. Enfournez 20-25 minutes à 180°C.
+
 
 ---
 

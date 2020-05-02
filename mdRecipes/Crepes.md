@@ -12,11 +12,20 @@
 
 ## Ingredients
 
-125g de farine3 oeufs30g de beurre (pour la poêle)250mL de laitFleur d'orangerUn bouchon de rhumsel
+- 125g de farine
+- 3 oeufs
+- 30g de beurre (pour la poêle)
+- 250mL de lait
+- Fleur d'oranger
+- Un bouchon de rhum
+- sel
+
 
 ## Réalisation
 
-Tout mélanger jusqu'à obtention d'une pâte lisse12 crêpes obtenables avec ces quantités.
+1. Tout mélanger jusqu'à obtention d'une pâte lisse
+1. 12 crêpes obtenables avec ces quantités.
+
 
 ---
 

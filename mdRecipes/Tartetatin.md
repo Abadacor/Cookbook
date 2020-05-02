@@ -12,11 +12,23 @@
 
 ## Ingredients
 
-1 pâte brisée2.5kg de pommes golden250g de sucre125g de beurre
+- 1 pâte brisée
+- 2.5kg de pommes golden
+- 250g de sucre
+- 125g de beurre
+
 
 ## Réalisation
 
-Faire fondre le beurre dans une casserole à feu douxAjouter la moitié du sucre en poudreLaisser cuire 5 minutes jusqu'à obtenir un caramelDéposer le caramel sur le fond d'un plat à tarteDisposer les pommes épluchées et coupées dessusVerser l'autre moitié du sucre sur les pommesRecouvrir les pommes de la pâte à tarteFaire cuire 20 minutes au four à 180°C.
+1. Faire fondre le beurre dans une casserole à feu doux
+1. Ajouter la moitié du sucre en poudre
+1. Laisser cuire 5 minutes jusqu'à obtenir un caramel
+1. Déposer le caramel sur le fond d'un plat à tarte
+1. Disposer les pommes épluchées et coupées dessus
+1. Verser l'autre moitié du sucre sur les pommes
+1. Recouvrir les pommes de la pâte à tarte
+1. Faire cuire 20 minutes au four à 180°C.
+
 
 ---
 

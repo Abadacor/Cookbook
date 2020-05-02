@@ -12,11 +12,26 @@
 
 ## Ingredients
 
-1 pâte brisée3 oeufs120g de sucre3 citrons1 cuillère à soupe de poudre d'amande200mL de crème fraîchequelques gouttes d'extrait de vanille40g de maïzena
+- 1 pâte brisée
+- 3 oeufs
+- 120g de sucre
+- 3 citrons
+- 1 cuillère à soupe de poudre d'amande
+- 200mL de crème fraîche
+- quelques gouttes d'extrait de vanille
+- 40g de maïzena
+
 
 ## Réalisation
 
-Faire précuire le fond de tarte préalablement piqué pendant 8 minutes au four à 180°CPréléver les zestes et présser les citronsMonter le sucre et les oeufs au batteurAjouter progressivement la crème fraîche, la poudre d'amandes, la vanille, la maïzena et le jus de citronRépartir les zestes de citron sur le fond de tarte précuitVerser le mélange dessusFaire cuire à 180°C pendant 20 minutes.
+1. Faire précuire le fond de tarte préalablement piqué pendant 8 minutes au four à 180°C
+1. Préléver les zestes et présser les citrons
+1. Monter le sucre et les oeufs au batteur
+1. Ajouter progressivement la crème fraîche, la poudre d'amandes, la vanille, la maïzena et le jus de citron
+1. Répartir les zestes de citron sur le fond de tarte précuit
+1. Verser le mélange dessus
+1. Faire cuire à 180°C pendant 20 minutes.
+
 
 ---
 

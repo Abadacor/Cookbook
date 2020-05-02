@@ -12,11 +12,23 @@
 
 ## Ingredients
 
-300mL d'eau125g de beurre1 pincée de sel250g de farine5-6 oeufs200g de gruyère
+- 300mL d'eau
+- 125g de beurre
+- 1 pincée de sel
+- 250g de farine
+- 5-6 oeufs
+- 200g de gruyère
+
 
 ## Réalisation
 
-Dans une casserole, faire bouillir l'eau, le beurre et le selAu premier bouillon retirer du feu, et y ajouter la farineRemuer sur le feu jusqu'à ce que la pâte se décolleIncorporer les oeufs un à unAjouter 200g de gruyèreSéparer la pâte obtenue en choux et faire cuire au four à 210°C pendant 20 minutes.
+1. Dans une casserole, faire bouillir l'eau, le beurre et le sel
+1. Au premier bouillon retirer du feu, et y ajouter la farine
+1. Remuer sur le feu jusqu'à ce que la pâte se décolle
+1. Incorporer les oeufs un à un
+1. Ajouter 200g de gruyère
+1. Séparer la pâte obtenue en choux et faire cuire au four à 210°C pendant 20 minutes.
+
 
 ---
 

@@ -12,11 +12,21 @@
 
 ## Ingredients
 
-1 oeuf60g de sucre30g de farine250mL de lait30g de beurreun bouchon de rhum
+- 1 oeuf
+- 60g de sucre
+- 30g de farine
+- 250mL de lait
+- 30g de beurre
+- un bouchon de rhum
+
 
 ## Réalisation
 
-Mélanger l'oeuf avec le sucre et la farineDélayer dans le lait bouillantCuire jusqu'à épaississementHors du feu, ajouter le beurre et le rhum.
+1. Mélanger l'oeuf avec le sucre et la farine
+1. Délayer dans le lait bouillant
+1. Cuire jusqu'à épaississement
+1. Hors du feu, ajouter le beurre et le rhum.
+
 
 ---
 

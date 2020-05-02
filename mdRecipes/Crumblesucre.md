@@ -12,11 +12,22 @@
 
 ## Ingredients
 
-150g de farine200g de sucre200g de beurre moufruits cuitscannellesucre vanillé
+- 150g de farine
+- 200g de sucre
+- 200g de beurre mou
+- fruits cuits
+- cannelle
+- sucre vanillé
+
 
 ## Réalisation
 
-Mélangez la farine, le sucre et le beurre jusqu'à obtention d'une pâte sableuseCuisez les fruits à partDans un plat beurré, faites une couche de fruits et assaisonnez de cannelle/sucre vanillé, puis une couche de pâteRépétez l'opérationEnfournez 20-25 minutes à 180°C.
+1. Mélangez la farine, le sucre et le beurre jusqu'à obtention d'une pâte sableuse
+1. Cuisez les fruits à part
+1. Dans un plat beurré, faites une couche de fruits et assaisonnez de cannelle/sucre vanillé, puis une couche de pâte
+1. Répétez l'opération
+1. Enfournez 20-25 minutes à 180°C.
+
 
 ---
 

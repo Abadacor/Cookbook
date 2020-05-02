@@ -12,11 +12,19 @@
 
 ## Ingredients
 
-180g de noix de coco râpée120g de sucre2 blancs d'oeufs1/2 cuillère d'extrait de vanille
+- 180g de noix de coco râpée
+- 120g de sucre
+- 2 blancs d'oeufs
+- 1/2 cuillère d'extrait de vanille
+
 
 ## Réalisation
 
-Préchauffer le four à 210°CMélanger à la main la noix de coco, les blancs, le sucre et la vanilleRouler des petites boulesLes faire cuire sur une plaque de cuisson pendant 5 minutes.
+1. Préchauffer le four à 210°C
+1. Mélanger à la main la noix de coco, les blancs, le sucre et la vanille
+1. Rouler des petites boules
+1. Les faire cuire sur une plaque de cuisson pendant 5 minutes.
+
 
 ---
 

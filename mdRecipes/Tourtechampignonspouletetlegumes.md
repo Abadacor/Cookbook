@@ -12,11 +12,37 @@
 
 ## Ingredients
 
-2 pâtes feuilletées250 de champignons rosés de Paris250g de blanc de poulet6 petits oignons blancs frais2 carottes3 cuillères à soupe d'huile d'olive3 gousses d'ailRomarin frais3 cuillères à soupe de farine500mL de bouillon de volaille4 cuillères à soupe de crème fraîche épaisse1 jaune d'oeuf40g de gruyère râpébeurre
+- 2 pâtes feuilletées
+- 250 de champignons rosés de Paris
+- 250g de blanc de poulet
+- 6 petits oignons blancs frais
+- 2 carottes
+- 3 cuillères à soupe d'huile d'olive
+- 3 gousses d'ail
+- Romarin frais
+- 3 cuillères à soupe de farine
+- 500mL de bouillon de volaille
+- 4 cuillères à soupe de crème fraîche épaisse
+- 1 jaune d'oeuf
+- 40g de gruyère râpé
+- beurre
+
 
 ## Réalisation
 
-Préchauffez le four à 200]C et beurrez le moule (possible en ramequins)Nettoyez les oignons et coupez lesPelez les carottes et taillez les en désNettoyez et coupez les champignons en morceaux de taille moyennePoêlez le poulet, coupé en dés, avec de l'huile d'olive, sel et poivre, puis réservezFaites fondre les oignons dans de l'huile d'olive à la poêle puis ajoutez les carottes et laissez les caraméliserAjoutez les champignons et l'ail émincé, avec du romarin haché, assaisonnez et laisser cuireAjoutez finalement la farine et mélangez bienUne fois cuit, versez progressivement le bouillon, puis ajoutez la crème fraîche et le pouletTapissez le moule d'une première pâte, puis ajoutez y la préparation et recouvrez de la seconde pâteFroncez les deux pâtes ensemblesBadigeonnez de jaune d'oeuf et parsemez de gruyère avant d'enfourner 20minutes.
+1. Préchauffez le four à 200]C et beurrez le moule (possible en ramequins)
+1. Nettoyez les oignons et coupez les
+1. Pelez les carottes et taillez les en dés
+1. Nettoyez et coupez les champignons en morceaux de taille moyenne
+1. Poêlez le poulet, coupé en dés, avec de l'huile d'olive, sel et poivre, puis réservez
+1. Faites fondre les oignons dans de l'huile d'olive à la poêle puis ajoutez les carottes et laissez les caraméliser
+1. Ajoutez les champignons et l'ail émincé, avec du romarin haché, assaisonnez et laisser cuire
+1. Ajoutez finalement la farine et mélangez bien
+1. Une fois cuit, versez progressivement le bouillon, puis ajoutez la crème fraîche et le poulet
+1. Tapissez le moule d'une première pâte, puis ajoutez y la préparation et recouvrez de la seconde pâte
+1. Froncez les deux pâtes ensembles
+1. Badigeonnez de jaune d'oeuf et parsemez de gruyère avant d'enfourner 20minutes.
+
 
 ---
 

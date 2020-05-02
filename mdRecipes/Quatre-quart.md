@@ -12,11 +12,20 @@
 
 ## Ingredients
 
-2 oeufs1 jaune d'oeuf125g de sucre125g de beurre125g de farinezeste de citron
+- 2 oeufs
+- 1 jaune d'oeuf
+- 125g de sucre
+- 125g de beurre
+- 125g de farine
+- zeste de citron
+
 
 ## Réalisation
 
-Mélangez bien tous les ingrédientsBeurrez un moule à cake et versez-y la préparationEnfournez à 180°C pendant environ 30minutes.
+1. Mélangez bien tous les ingrédients
+1. Beurrez un moule à cake et versez-y la préparation
+1. Enfournez à 180°C pendant environ 30minutes.
+
 
 ---
 

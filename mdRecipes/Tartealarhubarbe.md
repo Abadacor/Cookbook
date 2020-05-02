@@ -12,11 +12,24 @@
 
 ## Ingredients
 
-1 pâte brisée2kg de rhubarbe3 oeufs200g de sucre250g de crème fraîchequelques gouttes de vanille
+- 1 pâte brisée
+- 2kg de rhubarbe
+- 3 oeufs
+- 200g de sucre
+- 250g de crème fraîche
+- quelques gouttes de vanille
+
 
 ## Réalisation
 
-Faire précuire le fond de tarte préalablement piqué pendant 8 minutes au four à 180°CEplucher et découper la rhubarbe en petits tronçonsFaire revenir la rhuarbe dans une poêle quelques minutes avec du beurreDisposer la rhubarbe dans le fond de tarte précuitMélanger oeufs, sucre, crème fraîche et vanilleVerser sur la rhubarbeCuire 25 minutes à 180°C.
+1. Faire précuire le fond de tarte préalablement piqué pendant 8 minutes au four à 180°C
+1. Eplucher et découper la rhubarbe en petits tronçons
+1. Faire revenir la rhuarbe dans une poêle quelques minutes avec du beurre
+1. Disposer la rhubarbe dans le fond de tarte précuit
+1. Mélanger oeufs, sucre, crème fraîche et vanille
+1. Verser sur la rhubarbe
+1. Cuire 25 minutes à 180°C.
+
 
 ---
 

@@ -12,11 +12,23 @@
 
 ## Ingredients
 
-500g de mascarpone5 oeufs5 cuillères à soupe de sucrecafébiscuits à la cuillère *30lait
+- 500g de mascarpone
+- 5 oeufs
+- 5 cuillères à soupe de sucre
+- café
+- biscuits à la cuillère *30
+- lait
+
 
 ## Réalisation
 
-Mélanger jaunes d'oeufs, sucre et mascarponeAjouter blancs en neige, puis 4 cuillères de caféAlterner une couche de crème, et une de bicuits trempés dans le café mélangé à un peu de laitTerminer par une couche de crèmeSoupoudrer de cacaoConserver 4 à 5 heures au refrigérateur avant de consommer.
+1. Mélanger jaunes d'oeufs, sucre et mascarpone
+1. Ajouter blancs en neige, puis 4 cuillères de café
+1. Alterner une couche de crème, et une de bicuits trempés dans le café mélangé à un peu de lait
+1. Terminer par une couche de crème
+1. Soupoudrer de cacao
+1. Conserver 4 à 5 heures au refrigérateur avant de consommer.
+
 
 ---
 
