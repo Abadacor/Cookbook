@@ -11,6 +11,7 @@ def get_recipes_dataframe():
     sheet = client.open('Recettes').sheet1
 
     recipes = get_as_dataframe(sheet)
+    recipes.dropna(subset=['recipeName'], inplace=True)
     return recipes
 
 def add_row_to_dataframe(row):
@@ -19,7 +20,12 @@ def add_row_to_dataframe(row):
     client = gspread.authorize(creds)
     sheet = client.open('Recettes').sheet1
     
+    #print(row)
     existingRecipes = get_as_dataframe(sheet)
-    updatedRecipes = existingRecipes.append(row)
+    existingRecipes.dropna(subset=['recipeName'], inplace=True)
+    #print(existingRecipes.index.max)
+    #print(existingRecipes)
+    updatedRecipes = existingRecipes.append(row, ignore_index=True)
+    #print(updatedRecipes)
     set_with_dataframe(sheet, updatedRecipes)
     
