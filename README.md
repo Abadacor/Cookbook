@@ -12,6 +12,7 @@ convertion of a csv file containing recipes into a series of latex or markdown f
 - [X] Convert to a mardown recipe
 - [X] Correct Quote section for md recipes
 - [X] Add a script that executed with a key from the api allows you to add a row in the right format
+- [ ] Add function that also create the md/tex file associated with the new recipe (the uploading here will still be handled manually tho, bc i'm lazy)
 - [ ] Write a simple GUI with a form asking for a recipe and calling the adding function when clicked
 - [ ] Test every user input, everywhere, all the time
 - [ ] Reformat the api communication script
