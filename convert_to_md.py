@@ -20,7 +20,7 @@ def create_md_recipe(infos, recipe):
     recipe = recipe.replace('[recipeName]',infos['recipeName'])
     recipe = recipe.replace('[prepTime]',infos['prepTime'])
     recipe = recipe.replace('[difficulty]',str(infos['difficulty']))
-    if(type(infos['advice']) is not float):
+    if(type(infos['advice']) is not float and infos['advice'] != ""):
             recipe = recipe.replace('[advice]',infos['advice'])
     else:
             recipe = recipe.replace('[advice]',"")
@@ -28,7 +28,7 @@ def create_md_recipe(infos, recipe):
     recipe = recipe.replace('[ingredients]',str(infos['ingredients']))
     recipe = recipe.replace('[preparation]',str(infos['preparation']))
 
-    if(type(infos['quote']) is not float):
+    if(type(infos['quote']) is not float and infos['quote'] != ""):
         recipe = recipe.replace('[quoteSection]',"`[quote] ~ [quoteAuthor], [quoteAuthorText]`")
         recipe = recipe.replace('[quote]',str(infos['quote']))
         recipe = recipe.replace('[quoteAuthor]',str(infos['quoteAuthor']))

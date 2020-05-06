@@ -9,7 +9,7 @@ recipes = df_creation.dataframe_creation()
 with open('md_template.txt','r') as file:
     template = file.read()
 
-#convert_to_md.get_all_recipe_labels(recipes)
+convert_to_md.get_all_recipe_labels(recipes)
 
 #for each recipe
 for i in range(0,len(recipes)):

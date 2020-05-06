@@ -27,7 +27,7 @@ def create_latex_recipe(infos, recipe):
     recipe = recipe.replace('[recipeName]',infos['recipeName'])
     recipe = recipe.replace('[prepTime]',infos['prepTime'])
     recipe = recipe.replace('[difficulty]',str(infos['difficulty']))
-    if(type(infos['advice']) is not float):
+    if(type(infos['advice']) is not float and infos['advice'] != ""):
             recipe = recipe.replace('[advice]',"\subsection{Trucs \& Astuces}\n\t" + infos['advice'])
     else:
             recipe = recipe.replace('[advice]',"")
@@ -35,7 +35,7 @@ def create_latex_recipe(infos, recipe):
     recipe = recipe.replace('[ingredients]',str(infos['ingredients']))
     recipe = recipe.replace('[preparation]',str(infos['preparation']))
 
-    if(type(infos['quote']) is not float):
+    if(type(infos['quote']) is not float and infos['quote'] != ""):
         recipe = recipe.replace('[Quote]',"\begin{chapquote}{[quoteAuthor], \textit{[quoteAuthorText]}}\n\`\`" + str(infos['quote'] + "\n\'\'\n\end{chapquote}\n"))
         recipe = recipe.replace('[quoteAuthor]',str(infos['quoteAuthor']))
         recipe = recipe.replace('[quoteAuthorText]',str(infos['quoteAuthorText']))

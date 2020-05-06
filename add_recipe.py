@@ -1,6 +1,8 @@
 import googleAPI as api
 import creating_and_formatting_dataframe as df_creation
 import sys
+import convert_to_md
+import convert_to_latex
 
 #TEST COMMAND:
 #python3 add_recipe.py --name test --prepTime "<=30min" --difficulty 3 --nbOfPeople 5 --ingredients "a.b.c." --preparation "d.r.f.e." --category "Entrée"
@@ -28,6 +30,11 @@ errorMessage = "Incorrect command, you probably don't have all the required argu
 #row creation function
 def create_row(args):
     row = {}
+    row['advice'] = ""
+    row['category'] = ""
+    row['quote'] = ""
+    row['quoteAuthor'] = ""
+    row['quoteAuthorText'] = ""
     for i in range(1,len(args),2):
         if(args[i] == "--name"):
             row['recipeName'] = args[i+1]
@@ -56,6 +63,9 @@ def create_row(args):
 
 #create a dictionnary from the arguments with key = column names and values = args
 args = sys.argv
+row = create_row(args)
+print("could create the row!")
+
 if(len(sys.argv) >= 2):
     if(sys.argv[1] == "-h" or sys.argv[1] == "--help"):
         print(usage)
@@ -66,8 +76,21 @@ if(len(sys.argv) >= 2):
             "--nbOfPeople" in args and \
             "--ingredients" in args and \
             "--preparation" in args):
-        api.add_row_to_dataframe(create_row(sys.argv))
+        api.add_row_to_dataframe(row)
+        print("could add the row")
     else:
         print(errorMessage)
 else:
     print(usage)
+
+if("--md" in args):
+    with open('md_template.txt','r') as file:
+        template = file.read()
+    convert_to_md.write_md_file(convert_to_md.create_md_recipe(row,template),row['recipeName'])
+    print("could create file")
+elif("--tex" in args):
+    with open('tex_template.txt','r') as file:
+        template = file.read()
+    convert_to_latex.write_tex_file(convert_to_latex.create_latex_recipe(row,template),row['recipeName'])
+else:
+    print("You haven't created the associated file!")
